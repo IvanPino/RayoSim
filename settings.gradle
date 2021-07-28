@@ -1,0 +1,2 @@
+rootProject.name = "Rayosim"
+include ':app'
